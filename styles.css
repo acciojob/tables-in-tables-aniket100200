@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+#row2{
+    color: white;
+    background-color: black;
+}
+
+#main
+{
+    text-align: center;
+}
+
+
+.dtable{
+    width: 100%;
+}
